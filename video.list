@@ -1,3 +1,7 @@
+#飞流直播
+DOMAIN-SUFFIX,neulion.com,Streaming
+DOMAIN-SUFFIX,icntv.xyz,Streaming
+DOMAIN-SUFFIX,flzbcdn.xyz,Streaming
 # Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,fast.com
